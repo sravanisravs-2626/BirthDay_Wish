@@ -53,11 +53,13 @@ export default function BirthdayCard() {
               
               <div className="bg-white bg-opacity-5 rounded-2xl p-6 backdrop-blur-sm border border-white border-opacity-10">
                 <p className="text-white text-lg md:text-xl leading-relaxed font-light">
-                  On this special day, I want you to know how incredibly blessed I am to have you in my life. 
-                  Your kindness, laughter, and presence make every moment brighter. May this year bring you 
-                  endless joy, amazing adventures, and all the success you deserve. Here's to celebrating YOU 
-                  today and always! Wishing you the most wonderful birthday filled with love, laughter, and 
-                  unforgettable memories. 🎂✨
+                 On your special day, I want you to know that you mean the absolute world to me. You're not just 
+                  someone I know – you're the person who makes my days brighter, my laughter louder, and my heart 
+                  fuller. Your presence in my life is the greatest gift I could ever ask for. Thank you for being 
+                  my confidant, my support, and my favorite person. Every moment with you is a treasure I hold close 
+                  to my heart. May this birthday bring you all the happiness you deserve and more, because someone as 
+                  wonderful as you deserves nothing but the very best. Here's to you, to us, and to countless more 
+                  memories together. Happy Birthday to the one who makes life truly beautiful! 💖✨🎂
                 </p>
               </div>
 
